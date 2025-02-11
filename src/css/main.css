@@ -18,6 +18,7 @@ img {
     height: auto;
     margin-right: 3px;
     margin-left: 3px;
+    margin-top: 10px;
 }
 h1 {
     font-family: "Roboto Condensed", serif;
@@ -25,6 +26,7 @@ h1 {
     font-style: normal;
     margin-right: 3px;
     margin-left: 3px;
+    margin-top: 10px;
 }
 p {
     font-family: "Inter Tight", serif;
