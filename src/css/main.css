@@ -34,6 +34,7 @@ p {
     margin-left: 3px;
     font-size: 18px;
 }
+
 .button {
     font-family: "Roboto Condensed", serif;
     font-optical-sizing: auto;
@@ -48,6 +49,7 @@ p {
     border: none;
     font-size: 16px;
 }
+
 .full-width {
     margin: 0;
     margin-bottom: 0;
