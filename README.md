@@ -1,4 +1,4 @@
-## [Keep Memories Of Veterans Alive (Web)](https://mpit.tmfox.ru")
+## [Keep Memories Of Veterans Alive (Web)](https://mpit.tmfox.ru)
 ![](https://i.imgur.com/fzzs5zq.png)
 
 # 💾 HotuIT Team
