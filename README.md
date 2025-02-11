@@ -24,6 +24,10 @@
 2. Перейдите по ссылке http://вашдомен/admin
 3. Выполните первоначальную настройку
 
+# 📚 Others
+* [Knova Telegram](https://github.com/Heawikk/kmova-tg-py)
+* [Knova Mobile](https://github.com/Heawikk/kmova-mobile)
+
 # 📞 Contact Information
 * ### Website: https://tmfox.ru/
 * ### Discord: [Heawik](https://discord.com/users/848052452908597250)
