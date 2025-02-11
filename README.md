@@ -1,5 +1,5 @@
 ## [Keep Memories Of Veterans Alive (Web)](https://kmova.tmfox.ru")
-![](https://i.imgur.com/kBvsbO0.png)
+![](https://i.imgur.com/fzzs5zq.png)
 
 # 💾 HotuIT Team
 |**Name**|**Role**|
