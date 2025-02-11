@@ -1,6 +1,4 @@
-# Keep Memories Of Veterans Alive (Web)
-
-## [Перейти на сайт](https://kmova.tmfox.ru")
+## [Keep Memories Of Veterans Alive (Web)](https://kmova.tmfox.ru")
 
 # Состав команды HotuIT
 |**Имя**|**Роль**|
