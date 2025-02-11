@@ -1,7 +1,7 @@
 ## [Keep Memories Of Veterans Alive (Web)](https://kmova.tmfox.ru")
 ![](https://i.imgur.com/kBvsbO0.png)
 
-# HotuIT Team
+# 💾 HotuIT Team
 |**Name**|**Role**|
 |---------------|-------------|
 |**Бродникова Йола**|Manager|
