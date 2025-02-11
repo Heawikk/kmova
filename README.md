@@ -9,11 +9,11 @@
 |**Макаров Максим**|Developer|
 
 # ⚙️ Tecnologies
-`HTML`
-`Apache`
-`phpMyAdmin`
+* `HTML`
+* `Apache`
+* `phpMyAdmin`
 Programming Languages:
-`PHP`
-`JavaScript`
-`CSS`
-`Python`
+* `PHP`
+* `JavaScript`
+* `CSS`
+* `Python`
