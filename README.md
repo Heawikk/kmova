@@ -24,7 +24,7 @@
 2. Перейдите по ссылке http://вашдомен/admin
 3. Выполните первоначальную настройку
 
-# 📚 Others
+# 📚 Others repositories
 * [Knova Telegram](https://github.com/Heawikk/kmova-tg-py)
 * [Knova Mobile](https://github.com/Heawikk/kmova-mobile)
 
