@@ -25,8 +25,8 @@
 3. Выполните первоначальную настройку
 
 # 📚 Others repositories
-* [Knova Telegram](https://github.com/Heawikk/kmova-tg-py)
-* [Knova Mobile](https://github.com/Heawikk/kmova-mobile)
+* [Kmova Telegram](https://github.com/Heawikk/kmova-tg-py)
+* [Kmova Mobile](https://github.com/Heawikk/kmova-mobile)
 
 # 📞 Contact Information
 * ### Website: https://tmfox.ru/
