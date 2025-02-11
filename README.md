@@ -10,9 +10,9 @@
 
 # ⚙️ Tecnologies
 * `phpMyAdmin`
-* * `Apache`
+* `Apache`
 * `HTML`
 * `PHP`
-* * `CSS`
+* `CSS`
 * `JavaScript`
 * `Python`
