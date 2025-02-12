@@ -38,18 +38,22 @@ p {
 }
 
 .button {
-    font-family: "Roboto Condensed", serif;
-    font-optical-sizing: auto;
-    font-style: normal;
     display: inline-block;
-    padding: 10px 20px;
-    margin: 10px;
-    background-color: blue;
-    color: white;
-    text-decoration: none;
-    border-radius: 10px;
-    border: none;
-    font-size: 16px;
+    font-family: "Inter Tight", serif;
+    width: 300px; 
+    height: 50px;
+    background-color: #007bff;
+    color: white; 
+    text-align: center;
+    line-height: 50px; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    margin: 10px 0; 
+    transition: background-color 0.3s; 
+}
+
+.button:hover {
+    background-color: #0056b3; 
 }
 
 .full-width {
